@@ -8,7 +8,7 @@ section{
     width: 100%;
     height: 500px;
     margin-top: 80px;
-    margin-bottom: 150px;
+    margin-bottom: 80px;
 
 }
 h1{
@@ -31,7 +31,7 @@ h2{
 }
 h3{
     
-    font-size: 18px;
+    font-size: 17px;
     text-align: left;
     
     margin-bottom: 0px;
@@ -138,5 +138,13 @@ img{
     color:#363958;
     margin-bottom: 50px;
 }
-
-
+.fa-cart-plus{
+    font-size: 50px;
+    padding-left: 50px;
+}
+.price-section{
+    text-align: center;
+    background-color: rgb(238, 234, 226);
+    height: 550px;
+    
+}
