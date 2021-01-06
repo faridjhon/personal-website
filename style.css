@@ -1,0 +1,142 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+section{
+    width: 100%;
+    height: 500px;
+    margin-top: 80px;
+    margin-bottom: 150px;
+
+}
+h1{
+    text-transform: uppercase;
+    font-size: 45px;
+    font-weight: 800;
+    margin-bottom: 0px;
+    color:#363958;
+    
+    
+}
+h2{
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 0px;
+    color:#363958;
+    
+    
+}
+h3{
+    
+    font-size: 18px;
+    text-align: left;
+    
+    margin-bottom: 0px;
+    color:#363958;
+    
+    
+}
+h4{
+    
+    font-size: 25px;
+    text-align: center;
+    color:#393a4e;
+    
+    
+}
+p{
+    font-size: 16px;
+    margin-bottom: 50px;
+    text-align: justify;
+}
+img{
+    height: 500px;
+}
+.left-column{
+    padding: 2%;
+    margin-left: 5%;
+    width: 35%;
+    float: left;
+    
+}
+.hilight-color{
+    color:#FF8367;
+}
+.link-button{
+    padding: 15px 45px ;
+    background-color: #FF8367;
+    border-radius: 5px;
+    color:white;
+    text-decoration: none;
+   
+}
+#work-section{
+    text-align: center;
+    background-color: #F8F9FC;
+    
+    
+}
+#work-section img{
+    height: 100%;
+    width: 100%;
+}
+.left-column-work{
+    margin-top: 50px;
+    padding: 2%;
+    margin-left: 5%;
+    width: 20%;
+    float: left;    
+    box-shadow: 2px 2px 2px 2px rgb(236, 228, 228);
+    border-radius: 10px;
+    background-color: white;
+      
+}
+
+    
+
+.img-work{
+    background-image: url("images/Group_33094_1.png");
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: 800px 200px;
+    background-position: center;
+    position: relative;
+    
+   
+       
+
+}
+.bd{
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.bc{
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 75%;
+    transform: translate(-100%, -50%);
+    color: white;
+}
+#end-section{
+    text-align: center;
+    
+    
+    height: 25px;
+    width: 100%;
+}
+.link-end{
+    text-decoration: none;
+    font-size: 30px;
+    color:#363958;
+    margin-bottom: 50px;
+}
+
+
